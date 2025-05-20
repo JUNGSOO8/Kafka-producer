@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f8118be-d520-4b09-a5e4-5467996de77d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/config/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deploy/replace_secret.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/master.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/master.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy/after_install.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/after_install.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/seoul_data/realtime_bicycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/apis/seoul_data/realtime_bicycle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
